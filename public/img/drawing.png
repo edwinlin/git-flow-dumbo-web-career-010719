@@ -1,1 +1,2 @@
-puts 'not empty' * 50
+result = 'not empty' * 50
+puts result

@@ -1,1 +1,1 @@
-'not empty' * 50
+puts 'not empty' * 50
